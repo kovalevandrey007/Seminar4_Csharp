@@ -15,3 +15,10 @@ while (a > 0)
     count++;
 }
 Console.WriteLine("количество цифр = " + count);
+
+//второе решение
+
+/*int numberFirst = GetNumber("Введите  число");
+string x1 = Convert.ToString(numberFirst);
+int lenNumber = x1.Length;
+Console.WriteLine($"Количество цифр в числе равно {lenNumber}");*/

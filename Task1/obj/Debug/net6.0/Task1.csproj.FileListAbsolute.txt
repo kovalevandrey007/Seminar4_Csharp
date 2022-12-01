@@ -1,0 +1,15 @@
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\bin\Debug\net6.0\Task1.exe
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\bin\Debug\net6.0\Task1.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\bin\Debug\net6.0\Task1.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Seminar4_Csharp\Task1\obj\Debug\net6.0\ref\Task1.dll
