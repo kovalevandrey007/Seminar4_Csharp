@@ -1,33 +1,37 @@
-﻿/*
-
-*/
-
-
+﻿//получение числа с консоли
 int GetNumber(string message)
 {
-    int result = 0;
     bool isCorrect = false;
-
+    int result = 0;
 
     while(!isCorrect)
     {
         Console.WriteLine(message);
-
-        if(int.TryParse(Console.ReadLine(), out result) && result >= 1)
+        if(int.TryParse(Console.ReadLine(), out result))
         {
             isCorrect = true;
         }
         else
         {
-            Console.WriteLine("Ввели не число или 0. Введите целое число больше 0");
+            Console.WriteLine("Ввели не число");
         }
     }
-
+    
     return result;
 }
 
-int lin = GetNumber("Введите число");
-for(int i=1;i<=lin;i++)
+int GetSumm(int number)
 {
-    Console.Write($" {Math.Pow(i,2)}, ");
+    int summ = 0;
+    for (int i = 1; i <= number; i++)
+    {
+        summ += i;
+    }
+
+    return summ;
 }
+
+int number = GetNumber("Введите число");
+int summ = GetSumm(number);
+
+Console.WriteLine($"Сумма чисел от 1 до {number} = {summ}");
